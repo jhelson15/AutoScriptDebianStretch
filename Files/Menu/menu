@@ -83,7 +83,7 @@ echo -e "-----=[ Others ]=-----"
 echo -e "${color1}35${color3}.View Installation Log (${color2}log-install${color3})"
 echo -e "${color1}36${color3}.VPS Diagnostics (${color2}diagnosa${color3})"
 echo -e "${color1}37${color3}.Exit Menu (${color2}exit${color3})"
-echo "------------------------Script by FordSenpai-----------------------------"
+echo "------------------------Script by jhelson15-----------------------------"
 read -p "Choose an option from (1-37): " x
 if test $x -eq 1; then
 user-add
