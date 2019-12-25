@@ -169,7 +169,7 @@ diagnosa
 elif test $x -eq 37; then
 echo " "
 echo "Goodbye Menu!"
-echo "Script by FordSenpai"
+echo "Script by jhelson15"
 echo " "
 exit
 else
